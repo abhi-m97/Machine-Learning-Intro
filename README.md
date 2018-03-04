@@ -1,2 +1,2 @@
 # Machine-Learning-Intro
-An Introductory project to machine learning using the classic Iris flowers dataset
+An Introductory project to machine learning using the Iris flowers dataset
